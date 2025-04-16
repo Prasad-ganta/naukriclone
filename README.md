@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Naukri Clone : <br>
 A responsive Indian employment website website built with Node.js. Features include user authentication, list of jobs, and Block/UnBlock Users.
 Clone of Naukri.com website where user is able to see different job openings and can apply to various companies.<br>
@@ -63,3 +64,6 @@ admin access page : <br>
 
 
 
+=======
+# naukriclone
+>>>>>>> 12114e5f22a9223e0e310e038710c60eb3a7f109
